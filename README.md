@@ -14,4 +14,4 @@ npm run dev
 
 # Promise A+规范
 
-(Promise A+ 文档)[https://promisesaplus.com/]
+!(Promise A+ 文档)[https://promisesaplus.com/]
